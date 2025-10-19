@@ -1,0 +1,29 @@
+.j{  
+           
+            background-color:bisque;
+            height: 200px;
+            width: 800px;
+          
+        }
+         .a{
+            height: 50px;
+            width: 50px;
+            background-color: black;
+            margin: auto;
+            display: inline-block;
+           
+         }
+         .b{
+            height: 70px;
+            width: 50px;
+            background-color: black;
+            display: flex;
+       
+         }
+        .v{
+            display: flex;
+           gap: 20px;
+        }
+        
+        
+        

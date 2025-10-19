@@ -1,0 +1,2 @@
+<img src="" alt="">
+ctrl + espaço: para escolher arquivo 

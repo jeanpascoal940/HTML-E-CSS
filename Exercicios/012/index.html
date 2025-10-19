@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos com HTML5</title>
+</head>
+<body>
+  <h1>Inserir vídeos hospedados localmente</h1>
+  <p>Este vídeo es hospedaddo no meu próprio servidor</p>
+  <video src="midia/Animes.webm" width =500 controls autoplay loop poster="Imagens/Final.png"></video>
+
+  <video controls width="500" poster="Imagens/Final.png">
+      <source src="midia/Animes.mp4" type="video/mp4" >
+      <source src="midia/Animes.mkv" type="video/mkv">
+      <source src="midia/Meu Video.webm" type="video/webm">
+      <p>Seu navegador não tem compatibilidade com esse video</p>
+
+  </video>
+   <h1>Inserido videos do Youtube</h1>
+   <iframe width="500" height="300" src="https://www.youtube.com/embed/9aqxU5lyzeQ?si=XyU5bhHp8yUrO0Dm" title="YouTube video player" frameborder="120" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+</html>

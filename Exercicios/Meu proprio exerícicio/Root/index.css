@@ -1,0 +1,42 @@
+
+:root{
+--cor:antiquewhite;
+--cor2:red;
+--font:10px;
+
+
+} 
+.menu{
+
+
+    height:100px;
+    width: 100%;
+    background-color: var(--cor);
+}
+
+
+.botoes{
+
+    display: flex;
+    gap: 10px;
+    margin-top:10px;
+
+    
+}
+
+.btn-01{
+
+    height:50px;
+    width:100px;
+    background-color:var(--cor2) ;
+    font-size: var(--font);
+
+    
+}
+
+.btn-02{
+
+    height:50px;
+    width:100px;
+    background-color: var(--cor2);
+}

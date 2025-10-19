@@ -1,0 +1,31 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+background-color: black;
+height: 150px;
+}
+header p{
+    color: white;
+}
+
+header h1{
+    color: white;
+}
+nav{
+    background-color: black;
+    display: flex;
+    gap: 15px ;
+}
+
+
+main{
+width:800px;
+height:1000px;
+background-color: rgb(108, 156, 112);
+margin: auto;
+}
+main p{
+    color: black;
+}

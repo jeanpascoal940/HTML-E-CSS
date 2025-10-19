@@ -1,0 +1,35 @@
+*{
+margin-top: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+        display: flex;
+    background: rgb(31, 31, 31);
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+.button{
+
+    color:rgb(128, 0, 255);
+    background-color: white;
+    font-family: fantasy;
+    font-weight:bolder;
+    font-size: 3rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 15px 50px;
+    transition: 4s;
+    
+}
+
+.button:hover {
+background: black;
+color:brown;
+letter-spacing: 5px;
+clip-path: circle(51% at 49% 50%);
+
+}

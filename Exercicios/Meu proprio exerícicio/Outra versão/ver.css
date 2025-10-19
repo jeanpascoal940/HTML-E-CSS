@@ -1,0 +1,20 @@
+.h1{
+text-align: center;
+color:white;
+}
+
+body{
+    background-color: rgb(31, 31, 31);
+}
+
+.foto1{
+align-items: center;
+position:relative;
+left:250px;
+}
+.foto2{
+align-items: center;
+position:relative;
+left: 250px;;
+
+}

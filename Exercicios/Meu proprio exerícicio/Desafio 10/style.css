@@ -1,0 +1,180 @@
+@charset "UTF-8";
+header{
+background-color:black;
+height: 200px;
+position:fixed;
+margin: 0%;
+width: 100%;
+z-index: 10px;
+top: 0%;
+display: block;
+
+}
+
+*{
+    margin: 0px;
+
+
+}
+body{
+color: white;
+background-color: rgb(31, 31, 31);
+
+
+
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+}
+header >p{
+    text-align:center;
+    margin:30px;
+}
+nav{
+padding: 3px;
+
+
+color:white;
+
+}
+.a{
+ color:white;
+ display: inline-block;
+ position: relative;
+top: 15px;
+text-decoration: none;
+margin: 2px 2px 2px;
+
+  
+}
+
+main{
+background-color: white;
+padding-left: 100px;
+padding-top: 100px;
+padding-right: 100px;
+padding-bottom: 25px;
+width: 1000px;
+margin:auto;
+height: 1950px;
+border-radius: 0px 0px 5px 5px;
+
+
+
+}
+ 
+article{
+
+color: black;
+
+
+
+}
+h2{
+    height: 50px;
+    position: relative;
+    top:15px;
+}
+img{
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+
+   
+.inicio{
+     padding-top: 110px;
+    
+}
+
+.lado{
+    display: inline-block;
+    padding: 30px;
+    
+}
+.v{
+        height: 600px;
+        width: 1200px;
+        background-color: rgb(152, 151, 151);
+        margin: auto;
+}
+
+.frame{
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 25px;
+}
+.main{
+    
+padding-left: 100px;
+padding-top: 100px;
+padding-right: 100px;
+padding-bottom: 25px;
+width: 1000px;
+margin:auto;
+height: 1950px;
+border-radius: 0px 0px 5px 5px;
+}
+.final{
+
+    background-color: white;
+    color:black;
+    width: 1200px;
+    height: 600px;
+    margin: auto;
+    display: flex; 
+}
+
+.ffinal{
+    background-color: rgb(172, 172, 172);
+    width: 800px ;
+    height: 1000px;
+    margin: auto;  
+    border-radius: 5px 5px 5px 5px;   
+    display: inline-block;
+    
+}
+
+.escrita{
+text-align:left;
+font-size: 20px;
+background-color: maroon;
+border-radius: 5px;
+padding: 30px;
+color:white;
+}
+
+
+.esquerda{
+   width: 250px;
+   height: 200px;
+   padding: 10px;
+   background-color: blue;
+   
+
+}
+.direita{
+width: 200px;
+height: 200px;
+background-color: blue;
+margin-left: 600px;
+margin-bottom: 1000px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

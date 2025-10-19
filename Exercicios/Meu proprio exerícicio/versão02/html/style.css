@@ -1,0 +1,27 @@
+.h1{
+    text-align: center;
+    color:white;
+
+}
+
+body{
+background-color: rgb(31, 31, 31);
+}
+
+.foto1{
+    position: relative;
+    left: 225px;
+}
+
+.foto2{
+    text-align: center;
+    position: relative;
+    left: 500px;
+    bottom: 307px;
+}
+.foto3{
+text-align: center;
+position: relative;
+left: 250px;
+bottom: 307px;
+}
